@@ -1,5 +1,9 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
 
+![](/Semantic-SC.png)
+
+
+
 ## 2. Ensure a web page is readable for screen readers
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
