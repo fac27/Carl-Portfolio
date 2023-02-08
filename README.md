@@ -1,7 +1,6 @@
 # FAC27 Pre-apprenticeship learnings portfolio
 
-The purpose of this portfolio is to demonstrate some of the skills and concepts i have learned in the Founders and coders pre-apprenticeship course.
-It will include code snippets and screen shots as evidence of my learning.
+The purpose of this portfolio is to demonstrate the learning outcomes i have attained during my time at Founders and Coders (and beyond!). The portfolio included code snippets and screenshots projects i have worked on, which will serve as evidence of my knowledge and abilities.
 
 ## Learnings
 
