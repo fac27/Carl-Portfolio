@@ -2,7 +2,7 @@
 
 ![](/Assets/Async-ss.png)
 
-We have used asyncronous programming to fetch data from multiple API's and sort it. One example was the asyncronous call on the Police data api.
+We have used asynchronous programming to fetch data from multiple API's and sort it. One example was the asynchronous call on the Police data api.
 
 ## 2. Use callbacks to access values that aren’t available synchronously
 
@@ -22,7 +22,7 @@ Fetch was used for each api call in the project, the above example shows how it 
 
 ## 5. Configure the options argument of the fetch method to make GET and POST requests
 
-The project only used get requests so there wasnt a need to configure the options argument to make post requests.
+The project only used get requests so there wasn't a need to configure the options argument to make post requests.
 
 ## 7. Use the filter array method to create a new array with certain values removed
 
